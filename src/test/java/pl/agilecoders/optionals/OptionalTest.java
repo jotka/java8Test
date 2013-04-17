@@ -1,4 +1,4 @@
-package pl.agilecoders;
+package pl.agilecoders.optionals;
 
 import org.testng.annotations.Test;
 import pl.agilecoders.domain.Fruit;
