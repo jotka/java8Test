@@ -68,7 +68,7 @@ public class StreamsTest {
     }*/
 
     @Test
-    public void shoudDoSmt() {
+    public void shoudlMapAndPrint() {
         List<String> nameList1 = asList("Anders", "David", "James", "Jeff", "Joe", "Erik");
         nameList1.stream()
                 .map(c -> "Hello! " + c)
