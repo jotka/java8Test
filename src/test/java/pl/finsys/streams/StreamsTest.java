@@ -1,4 +1,4 @@
-package pl.agilecoders.streams;
+package pl.finsys.streams;
 
 import org.testng.annotations.Test;
 
@@ -17,7 +17,7 @@ import static java.util.stream.Streams.intRange;
 import static org.fest.assertions.Assertions.assertThat;
 
 /**
- * (c) 2013 agilecoders.pl
+ * (c) 2013 finsys.pl
  * User: jarek
  * Date: 17.04.13
  * Time: 20:25

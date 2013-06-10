@@ -1,7 +1,7 @@
-package pl.agilecoders.domain;
+package pl.finsys.domain;
 
 /**
- * (c) 2013 agilecoders.pl
+ * (c) 2013 finsys.pl
  * User: jarek
  * Date: 02.04.13
  * Time: 13:02

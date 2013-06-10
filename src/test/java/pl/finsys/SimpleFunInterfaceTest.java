@@ -1,11 +1,11 @@
-package pl.agilecoders;
+package pl.finsys;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.testng.annotations.Test;
 
 /**
- * (c) 2013 agilecoders.pl
+ * (c) 2013 finsys.pl
  * User: jarek
  * Date: 30.03.13
  * Time: 20:05

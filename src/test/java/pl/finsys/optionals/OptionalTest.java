@@ -1,7 +1,7 @@
-package pl.agilecoders.optionals;
+package pl.finsys.optionals;
 
 import org.testng.annotations.Test;
-import pl.agilecoders.domain.Fruit;
+import pl.finsys.domain.Fruit;
 
 import java.util.List;
 import java.util.Optional;
@@ -10,7 +10,7 @@ import static java.util.Arrays.asList;
 import static org.fest.assertions.Assertions.assertThat;
 
 /**
- * (c) 2013 agilecoders.pl
+ * (c) 2013 finsys.pl
  * User: jarek
  * Date: 17.04.13
  * Time: 19:35

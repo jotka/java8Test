@@ -1,13 +1,13 @@
-package pl.agilecoders;
+package pl.finsys;
 
 import org.testng.annotations.Test;
-import pl.agilecoders.domain.Car;
-import pl.agilecoders.domain.Vehicle;
+import pl.finsys.domain.Car;
+import pl.finsys.domain.Vehicle;
 
 import java.util.function.Supplier;
 
 /**
- * (c) 2013 agilecoders.pl
+ * (c) 2013 finsys.pl
  * User: jarek
  * Date: 02.04.13
  * Time: 13:04

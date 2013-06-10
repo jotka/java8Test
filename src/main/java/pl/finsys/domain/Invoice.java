@@ -1,10 +1,10 @@
-package pl.agilecoders.domain;
+package pl.finsys.domain;
 
 import org.apache.commons.lang3.builder.ToStringBuilder;
 import org.apache.commons.lang3.builder.ToStringStyle;
 
 /**
- * (c) 2013 agilecoders.pl
+ * (c) 2013 finsys.pl
  * User: jarek
  * Date: 02.04.13
  * Time: 13:29

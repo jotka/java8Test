@@ -10,7 +10,7 @@
         </encoder>
     </appender>
 
-    <logger name="pl.agilecoders" level="DEBUG" additivity="false">
+    <logger name="pl.finsys" level="DEBUG" additivity="false">
         <appender-ref ref="STDOUT"/>
     </logger>
 

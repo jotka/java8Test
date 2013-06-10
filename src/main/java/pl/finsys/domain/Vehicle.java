@@ -1,10 +1,10 @@
-package pl.agilecoders.domain;
+package pl.finsys.domain;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * (c) 2013 agilecoders.pl
+ * (c) 2013 finsys.pl
  * User: jarek
  * Date: 02.04.13
  * Time: 13:01
